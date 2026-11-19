@@ -1,3 +1,4 @@
 # first-repo
-this is my first repository
-Author - Ravi Dave
+this is my first repository.
+<br>
+Author - Ravi Dave.
